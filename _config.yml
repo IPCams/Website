@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+logo: /media/icon.png
+title: IPCams
+github.is_project_page: false
+description: A beautiful iOS IP camera viewer app for MJPEG, H264, & RTSP cameras
